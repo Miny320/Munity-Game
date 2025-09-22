@@ -21,7 +21,7 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://github.com/miny320/Metaverse-Game.git
+   git clone https://github.com/Miny320/Munity-Game.git
 ```
 
 ### Install dependencies
