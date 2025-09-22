@@ -59,7 +59,7 @@ export const AvailableStaked = () => {
                         >
                           <source src={availableNfts[index + 1]} />
                         </video>
-                      ) : availableNfts.length % 2 == 1 ? (
+                      ) : availableNfts.length % 2 === 1 ? (
                         <div></div>
                       ) : (
                         ""
@@ -108,7 +108,7 @@ export const AvailableStaked = () => {
                         >
                           <source src={stakedNfts[index + 1]} />
                         </video>
-                      ) : stakedNfts.length % 2 == 1 ? (
+                      ) : stakedNfts.length % 2 === 1 ? (
                         <div></div>
                       ) : (
                         ""

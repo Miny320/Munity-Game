@@ -15,10 +15,10 @@ export const Wallnetbtn = () => {
       window.ethereum.on("chainChanged", (chainID) => {
         if (
           !(
-            chainID == 5 ||
-            chainID == 11155111 ||
-            chainID == 1 ||
-            chainID == 137
+            chainID === 5 ||
+            chainID === 11155111 ||
+            chainID === 1 ||
+            chainID === 137
           )
         )
           disconnect();

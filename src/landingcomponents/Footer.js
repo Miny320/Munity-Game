@@ -10,55 +10,55 @@ export const Footer = () => {
     <div className="footer">
       <div className="leftFooter">
         <div className="markFooter">
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={logo} alt="footermark" width={90} />
           </a>
           <span style={{ color: "white" }}>© 2024 Metahorse Unity</span>
         </div>
         <div className="iconFooter1">
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer2} alt="footermark" className="iconF" />
           </a>
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer3} alt="footermark" className="iconF" />
           </a>
 
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer4} alt="footermark" className="iconF" />
           </a>
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer5} alt="footermark" className="iconF" />
           </a>
 
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer6} alt="footermark" className="iconF" />
           </a>
-          <a href="https://linktr.ee/metahorseunity" target="_blank">
+          <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
             <img src={footer7} alt="footermark" className="iconF" />
           </a>
         </div>
         <div className="iconFooter2">
           <div>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer2} alt="footermark" className="iconF" />
             </a>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer3} alt="footermark" className="iconF" />
             </a>
           </div>
           <div>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer4} alt="footermark" className="iconF" />
             </a>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer5} alt="footermark" className="iconF" />
             </a>
           </div>
           <div>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer6} alt="footermark" className="iconF" />
             </a>
-            <a href="https://linktr.ee/metahorseunity" target="_blank">
+            <a href="https://linktr.ee/metahorseunity" target="_blank" rel="noreferrer">
               <img src={footer7} alt="footermark" className="iconF" />
             </a>
           </div>

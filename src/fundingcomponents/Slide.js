@@ -61,6 +61,7 @@ export const Slide = (props) => {
             width={424}
             height={424}
             className="loadingImg"
+            alt="Loading NFTs"
           />
         ) : (
           allNfts.map((item, index) => (

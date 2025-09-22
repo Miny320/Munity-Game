@@ -15,7 +15,7 @@ const projectId = "10dd96df3c1b27c7c028d125071be835";
 const metadata = {
   name: "MetaHorseStaking",
   description: "MetaHorseStaking",
-  url: "https://staking.metahorseunity.io/", // origin must match your domain & subdomain
+  url: process.env.NODE_ENV === 'development' ? "http://localhost:3000" : "https://staking.metahorseunity.io/", // origin must match your domain & subdomain
   icons: ["https://avatars.githubusercontent.com/u/37784886"],
 };
 
